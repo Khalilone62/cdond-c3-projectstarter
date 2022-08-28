@@ -1,1 +1,5 @@
 URL01: https://github.com/Khalilone62/cdond-c3-projectstarter
+URL02: http://udapeople-d5cdca8.s3-website-us-east-1.amazonaws.com
+URL03: http://d5ohcx70ytnir.cloudfront.net/
+URL04: http://174.129.153.115:3030/api/status
+URL05: http://ec2-34-203-206-236.compute-1.amazonaws.com:9090/targets
